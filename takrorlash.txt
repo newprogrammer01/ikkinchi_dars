@@ -1,3 +1,4 @@
-print(a,b,m)
+print(a,b,n)
+
  
  
